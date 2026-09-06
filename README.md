@@ -20,7 +20,7 @@ Transitioning into DevOps and Automated Testing with a focus on Python, BDD (Ghe
    - Automated Bash scripting suite for CPU, RAM, Disk monitoring and system log parsing (`ERROR` patterns).
    - Fully integrated with GitHub Actions CI.
 
-2. **[Python API Test Suite & BDD Framework](https://github.com/pmkindu/python-api-test-suite)** 
+2. **[Python API Test Suite & BDD Framework](https://github.com/pmkindu/python-api-test-suite)**
    - Automated REST API testing framework using Python, Pytest, and Gherkin BDD scenarios.
 
 3. **[Dockerized Test Environment](https://github.com/pmkindu/docker-test-environment)** 
