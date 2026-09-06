@@ -16,7 +16,7 @@ Transitioning into DevOps and Automated Testing with a focus on Python, BDD (Ghe
 
 ### 🚀 Featured Portfolio Projects
 
-1. **[Linux System Diagnostics & Log Parser](https://github.com/pmkindu/linux-system-diagnostics)** ![CI Status](https://github.com/pmkindu/linux-system-diagnostics/actions/workflows/test.yml/badge.svg)
+1. **[Linux System Diagnostics & Log Parser](https://github.com/pmkindu/linux-system-diagnostics)** ![CI Status](https://github.com/pmkindu/linux-system-diagnostics/actions/workflows/test.yml/badge.svg)(https://github.com/pmkindu/linux-system-diagnostics/actions)
    - Automated Bash scripting suite for CPU, RAM, Disk monitoring and system log parsing (`ERROR` patterns).
    - Fully integrated with GitHub Actions CI.
 
