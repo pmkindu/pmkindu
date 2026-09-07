@@ -24,8 +24,10 @@ Transitioning into DevOps and Automated Testing with a focus on Python, BDD (Ghe
    - Automated REST API testing framework using Python, Pytest, and Gherkin BDD scenarios.
    - Fully integrated with GitHub Actions CI pipeline.
 
-3. **[Dockerized Test Environment](https://github.com/pmkindu/docker-test-environment)** 
-   - Multi-container test setup with Docker Compose, PostgreSQL, and automated test orchestration.
+3. **[Dockerized Test Environment](https://github.com/pmkindu/docker-test-environment)** [![MedTech BDD Integration Tests](https://github.com/pmkindu/docker-test-environment/actions/workflows/test.yml/badge.svg)](https://github.com/pmkindu/docker-test-environment/actions)
+
+   * Containerized BDD testing setup designed for regulated environments (ISO 13485 / FDA CFR Title 21 Part 11).
+   * Automated orchestration with Docker Compose, PostgreSQL 15, Behave, and GitHub Actions CI.
 
 ---
 
