@@ -1,16 +1,15 @@
 # Hi there, I'm Prince 👋
-### Aspiring DevOps & Test Automation Engineer
 
-Transitioning into DevOps and Automated Testing with a focus on Python, BDD (Gherkin), CI/CD pipelines, Docker, and Linux administration.
+### Aspiring Test Automation & DevOps Engineer
+Driven by building automated test frameworks, robust CI/CD pipelines, and containerized IoT environments with Python, Docker, and Linux.
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-- **Languages:** Python, Bash
-- **Test Automation & BDD:** Pytest, Behave / Gherkin (`Given/When/Then`), REST API Testing (`requests`)
-- **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose
-- **Environment:** WSL 2 (Ubuntu Linux), Git, VS Code
+🛠 **Tech Stack & Tools**
+* **Languages:** Python, C++, Bash
+* **Test Automation & BDD:** Pytest, Behave (Gherkin syntax), REST API Testing, HAL Mocking
+* **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose, AWS (ECS Fargate)
+* **Environment:** Linux (Ubuntu/WSL2), Git, VS Code
 
 ---
 
