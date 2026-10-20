@@ -22,7 +22,7 @@ Passionate Mechatronics Engineer driven by IoT systems, embedded systems, softwa
    - End-to-end IoT outdoor weather monitoring & real-time plausibility validation system.
    - **Firmware:** ESP8266 (C++ / PlatformIO) reading DHT20 sensor & driving SH1106 OLED over I²C.
    - **Backend & Cloud:** FastAPI REST service integrated with Open-Meteo API, dockerized and deployed to **AWS ECS**.
-   - **CI/CD & QA:** Fully automated GitHub Actions workflow executing PlatformIO build checks & **Pytest** test suite (8/8 passing).
+   - **CI/CD & QA:** Fully automated GitHub Actions workflow executing PlatformIO build checks & **Pytest** test suite (12/12 passing).
 
 2. **[iot-medtech-distance-alert](https://github.com/pmkindu/iot-medtech-distance-alert)**
    - Automated BDD test suite & CI/CD pipeline for an IoT MedTech Distance Alert System.
