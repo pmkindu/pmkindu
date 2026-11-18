@@ -6,7 +6,7 @@ Mechatronics Engineer (M.Eng.) with hands-on experience in test engineering, mea
 
 ---
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 - **Languages:** Python, C/C++, Bash, HTML5/CSS3
 - **Embedded & IoT:** ESP32-S3, ESP8266 (NodeMCU), Arduino Nano, PlatformIO, I²C/SPI sensors and displays, hardware-software integration
@@ -17,7 +17,7 @@ Mechatronics Engineer (M.Eng.) with hands-on experience in test engineering, mea
 
 ---
 
-🚀 Featured Portfolio Projects
+## 🚀 Featured Portfolio Projects
 
 1. **[CAN-Guard](https://github.com/pmkindu/CAN-Guard)** 🚧 *in development*
    - Distributed CAN bus sensor network with five nodes at 500 kbit/s: four Arduino Nano sensor nodes (switch/LDR, ultrasonic, 3× DHT11, motion) and an ESP32-S3 gateway.
@@ -50,7 +50,7 @@ Mechatronics Engineer (M.Eng.) with hands-on experience in test engineering, mea
 
 ---
 
-📫 Connect with Me
+## 📫 Connect with Me
 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/princemvutikindu/)
 - **XING:** [XING Profile](https://www.xing.com/profile/Prince_MvutiKindu/web_profiles)
